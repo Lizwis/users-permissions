@@ -5,7 +5,7 @@
 1. clone the repo and cd into it
 1. `composer install`
 1. rename or copy `.env.example` file to `.env`
-2. create a database, call it `hacker-news`
+2. create a database, call it `user-permission`
 4. populate database
 5. Enter your database credentials in your `.env` file, edit the following
    DB_CONNECTION=mysql
